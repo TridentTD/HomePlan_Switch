@@ -1,8 +1,7 @@
 #include <BlynkGO.h>
 
 /* ลงทะเบียนเพื่อรับค่า BLYNKGO_KEY */
-//#define BLYNKGO_KEY   "--------------------"
-#define BLYNKGO_KEY   "48c89537d6695ad0"
+#define BLYNKGO_KEY   "--------------------"
 
 /* ประกาศก่อนใช้รูปภาพจาก c file */
 IMG_DECLARE(closet_off);      IMG_DECLARE(closet_on);
